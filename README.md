@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel Schrader
-- 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning OOP in Python and Java, and Continuous Probability and Statistics in R
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Structures and Algorithms and Probabilistic Machine Learning
 - 📫 How to reach me: nathaniel.schrader@emory.edu
 - ⚡ Fun fact: I am a tennis fanatic
 
